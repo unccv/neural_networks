@@ -1,6 +1,6 @@
 # Neural Networks
 
-![](graphics/github_lander.gif)
+![](graphics/lander.gif)
 
 
 ## About 

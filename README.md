@@ -10,6 +10,14 @@ This repo contains resources and code for a computer vision module on neural net
 ### Note on Launching the Jupyter Notebooks
 To properly view the images and animations, please launch your jupyter notebook from the root directory of this repository. 
 
+## Lectures
+| Order |   Notebook/Slides  | Topics | Required Viewing Before | Additional Reading | Notes |
+| ----- | ------------------ | ------ | ----------------------- | ------------------ | ----- |
+| 1 | [A Brief History of Neural Networks](https://github.com/unccv/neural_networks/blob/master/notebooks/A%20Brief%20History%20of%20Neural%20Networks.ipynb) | Development of Perceptrons, MLPs, Backpropogation | - | - | - |
+| 2 | [Neural Nets Demystified Part 1](https://github.com/unccv/neural_networks/blob/master/notebooks/Neural%20Networks%20Demystified%20%5BPart%201%5D.ipynb) | Building a Simple Neural Networok, Forwardpropogation, Backpropogation| [Neural Networks Demystified Parts 1-4](https://www.youtube.com/watch?v=bxe2T-V8XRs) | [Who is afraid of non-convex loss functions?](https://www.youtube.com/watch?v=8zdo6cnCW2w) | Print [Backpropogation Notes](https://github.com/unccv/neural_networks/blob/master/backprop_guided_notes.pdf) before lecture. |
+| 3 | [Neural Nets Demystified Part 2](https://github.com/unccv/neural_networks/blob/master/notebooks/Neural%20Networks%20Demystified%20%5BPart%202%5D.ipynb) | Backpropogation, Training, Regularization, Overfitting| [Neural Networks Demystified Parts 4-7](https://www.youtube.com/watch?v=bxe2T-V8XRs) | [Regularization for Deep Learning](https://www.deeplearningbook.org/contents/regularization.html) | Print [Backpropogation Notes](https://github.com/unccv/neural_networks/blob/master/backprop_guided_notes.pdf) before lecture. |
+
+
 ## Setup 
 
 The Python 3 [Anaconda Distribution](https://www.anaconda.com/download) is the easiest way to get going with the notebooks and code presented here. 
